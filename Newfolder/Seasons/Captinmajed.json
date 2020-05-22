@@ -1,0 +1,47 @@
+[
+  {
+    "title":"الجزء الأول",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
+    "arguments":[
+       "yoodkkaa.wordpress.com",
+	    "captinmajedse1"
+    ]
+  },
+    {
+    "title":"الجزء الثاني",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
+    "arguments":[
+            "yoodkkaa.wordpress.com",
+	    "captinmajedse2"
+    ]
+  },
+    {
+    "title":"الجزء الثالث",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
+    "arguments":[
+            "yoodkkaa.wordpress.com",
+	    "captinmajedse3"
+    ]
+  },
+    {
+    "title":"الجزء الرابع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
+    "arguments":[
+            "yoodkkaa.wordpress.com",
+	    "captinmajedse4"
+    ]
+  },
+    {
+    "title":"الجزء الخامس - الشبح",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
+    "arguments":[
+      "yoodkkaa.wordpress.com",
+	    "captinmajedse5"
+    ]
+  }
+]

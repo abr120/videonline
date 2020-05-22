@@ -1,0 +1,39 @@
+[
+  {
+    "title":" الكتاب الأول - الهواء",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/217.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "astortkorra1"
+    ]
+  },
+  {
+    "title":"الكتاب الثاني - الأرواح",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/217.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "astortkorra2"
+    ]
+  },
+  {
+    "title":"الكتاب الثالث - التغيير",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/217.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "astortkorra3"
+    ]
+  },
+
+  {
+    "title":"الكتاب الرابع - التوازن",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/217.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "astortkorra4"
+    ]
+  }
+]

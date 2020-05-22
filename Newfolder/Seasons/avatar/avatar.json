@@ -1,0 +1,22 @@
+[
+  {
+    "title":"اسطورة انج",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/216.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/avatar/ang.json"
+    ]
+  },
+
+
+
+  {
+    "title":"اسطورة كورا",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/217.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/avatar/korra.json"
+    ]
+  }
+
+]

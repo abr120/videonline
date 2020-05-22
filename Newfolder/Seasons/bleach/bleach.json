@@ -1,0 +1,49 @@
+[
+  {
+    "title":"الجزء الأول",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/213.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "bleachch1"
+    ]
+  },
+    {
+    "title":"الجزء الثاني",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/213.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "bleachch2"
+    ]
+  },
+  
+      {
+    "title":"الجزء الثالث",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/213.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "bleachch3"
+    ]
+  },
+  
+      {
+    "title":"الجزء الرابع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/213.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "bleachch4"
+    ]
+  },
+    {
+    "title":"الأفلام والحلقات الخاصة",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/213.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "bleachchmov"
+    ]
+  } 
+]

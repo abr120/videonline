@@ -1,0 +1,29 @@
+[
+  {
+    "title":" الكتاب الأول - الماء",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/216.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "astortang1"
+    ]
+  },
+  {
+    "title":"الكتاب الثاني - الأرض",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/216.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "astortang2"
+    ]
+  },
+  {
+    "title":"الكتاب الثالث - النار - مترجم",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/216.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "astortang3"
+    ]
+  }
+]

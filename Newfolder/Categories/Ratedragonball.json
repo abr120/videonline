@@ -1,0 +1,25 @@
+[
+   
+
+   
+   	    {
+    "title":"موعد إضافة دراغون بول",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2018/05/1114013-dragon6.jpeg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "ratedragonball"
+    ]
+  },
+  
+  {
+    "title":"تقييم التطبيق 5 نجوم",
+    "provider":"custom",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/rate.png",
+    "arguments":[
+      "https://play.google.com/store/apps/details?id=com.abr120.vidonline&hl=ar",
+      "url"
+    ]
+  }
+   
+]

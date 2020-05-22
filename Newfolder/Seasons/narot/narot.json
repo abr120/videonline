@@ -1,0 +1,28 @@
+[
+  {
+    "title":"ناروتو - مدبلج",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/184.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/narot/narotAR.json"
+    ]
+  },
+    {
+    "title":"ناروتو - مترجم",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/193.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/narot/narotSUB.json"
+    ]
+  },
+
+  {
+    "title":"الأفلام والحلقات الخاصة",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/193.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/narot/narotmov.json"
+    ]
+  }
+   
+]

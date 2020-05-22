@@ -1,0 +1,21 @@
+[
+  {
+    "title":"رجل اللكمة الواحدة",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/208.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "oneppunchman"
+    ]
+  },
+
+    {
+    "title":"الأفلام والحلقات الخاصة",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/208.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "oneppunchmanmov"
+    ]
+  } 
+]

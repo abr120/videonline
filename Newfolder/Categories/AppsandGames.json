@@ -1,0 +1,10 @@
+[
+  	{
+    "title":"ألعاب",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2018/09/games.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/Games.json"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "title":"الجزء الأول",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/197.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "dragboozsub1"
+    ]
+  },
+    {
+    "title":"الجزء الثاني",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/197.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "dragboozsub2"
+    ]
+  },
+    {
+    "title":"الجزء الثالث",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/197.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "dragboozsub3"
+    ]
+  }
+]

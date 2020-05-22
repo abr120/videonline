@@ -1,0 +1,29 @@
+[
+  {
+    "title":"الجزء الأول",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/185.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "slamar1"
+    ]
+  },
+    {
+    "title":"الجزء الثاني",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/185.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "slamar2"
+    ]
+  },
+    {
+    "title":"أفلام سلام دانك - مترجم",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/186.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "slamfilmsub"
+    ]
+  }
+]

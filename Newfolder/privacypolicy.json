@@ -1,0 +1,21 @@
+[
+
+    {
+    "title":"YouTube ToS",
+    "provider":"custom",
+    "image":"https://toodkkaa.files.wordpress.com/2020/02/tos.jpg",
+    "arguments":[
+     "https://www.youtube.com/static?template=terms",
+      "url"
+    ]
+  },
+  {
+    "title":"Google Privacy Policy",
+    "provider":"custom",
+    "image":"https://toodkkaa.files.wordpress.com/2020/02/privacy.jpg",
+    "arguments":[
+      "https://policies.google.com/privacy",
+      "url"
+    ]
+  }
+]

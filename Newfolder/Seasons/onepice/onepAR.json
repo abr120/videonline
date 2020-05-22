@@ -1,0 +1,20 @@
+[
+  {
+    "title":"الجزء الأول",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "onep1"
+    ]
+  },
+    {
+    "title":"الجزء الثاني",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "onep2"
+    ]
+  }
+]

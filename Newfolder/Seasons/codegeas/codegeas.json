@@ -1,0 +1,29 @@
+[
+  {
+    "title":"الجزء الأول",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/211.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "codegeaas1"
+    ]
+  },
+    {
+    "title":"الجزء الثاني",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/211.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "codegeaas2"
+    ]
+  },
+    {
+    "title":"الأفلام والحلقات الخاصة",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/211.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "codegeaasmov"
+    ]
+  } 
+]

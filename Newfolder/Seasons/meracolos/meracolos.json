@@ -1,0 +1,22 @@
+[
+      
+  {
+    "title":"الجزء الأول",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/33.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "meracolos1"
+    ]
+  },
+    
+      {
+    "title":"الأفلام والحلقات الخاصة",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/33.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "meracolosmov"
+    ]
+  }
+]

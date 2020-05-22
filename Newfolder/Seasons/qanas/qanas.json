@@ -1,0 +1,30 @@
+[
+    {
+    "title":"القناص",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/19.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "qanasar"
+    ]
+  },
+    {
+    "title":"القناص - مترجم",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/19.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "qanas2011"
+    ]
+  },
+	
+	{
+    "title":"أفلام القناص - مترجم",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/19.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "qanasmov"
+    ]
+  }
+]

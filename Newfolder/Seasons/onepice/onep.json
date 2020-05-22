@@ -1,0 +1,29 @@
+[
+  {
+    "title":"ون بيس",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/onepice/onepAR.json"
+    ]
+  },
+    {
+    "title":"ون بيس - مترجم",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/onepice/onepSUB.json"
+    ]
+  },
+  
+    {
+    "title":"أفلام ون بيس - مترجم",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "onepsubmov"
+    ]
+  }
+  
+]

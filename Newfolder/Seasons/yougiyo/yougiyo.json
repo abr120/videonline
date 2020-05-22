@@ -1,0 +1,43 @@
+[
+  {
+    "title":"يوغي يو",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/227.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/yougiyo/yougiyoar.json"
+    ]
+  },
+
+
+  {
+    "title":"يوغي يو - الوحوش المكبسلة",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/227.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "yougiyocapsold"
+    ]
+  },
+
+
+
+  {
+    "title":"يوغي يو - جي اكس GX",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/228.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/yougiyo/yougiyogx.json"
+    ]
+  },
+
+
+  {
+    "title":"يوغي يو - فايف ديز 5D's - مترجم",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/229.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "yougiyofiveds"
+    ]
+  }
+]
